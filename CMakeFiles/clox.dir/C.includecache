@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lain/Code/vmlang1/src/chunk.h
+common.h
+/home/lain/Code/vmlang1/src/common.h
+
+/home/lain/Code/vmlang1/src/common.h
+stdbool.h
+-
+stddef.h
+-
+stdint.h
+-
+
+/home/lain/Code/vmlang1/src/main.c
+common.h
+/home/lain/Code/vmlang1/src/common.h
+chunk.h
+/home/lain/Code/vmlang1/src/chunk.h
+

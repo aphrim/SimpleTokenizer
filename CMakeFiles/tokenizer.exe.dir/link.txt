@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/tokenizer.exe.dir/src/debug.cpp.o CMakeFiles/tokenizer.exe.dir/src/main.cpp.o CMakeFiles/tokenizer.exe.dir/src/tokenizer.cpp.o  -o tokenizer.exe 
