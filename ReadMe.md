@@ -1,9 +1,14 @@
 ## TOKENIZER
 
 A simple, easy to understand, and easy to expand tokenizer.
+
 Easy to add new keywords, tokens and more.
+
 Stores a token in a token struct, which is just an enum + an ```std::vector<uint8_t>```. A token can store an infinite amount of data with it, for example a string or a number.
+
 Supports basic string escaping and such.
+
+Inspired by the tokenizer outlined in the book "Crafting Interpreters".
 
 Example input/output:
 ```
@@ -65,13 +70,17 @@ Run the output.
 ### Adding a token
 
 Step 1: Add the token to token.hpp
+
 Step 2: Modify the scanner to support the token.
+
 Step 3: Add it to the debugger.
 
 ### Accessing token data
 
 Token data is stored in the tokens data member as a vector of uint8_t.
+
 Currently this supports storing of strings and numbers, but adding other datatypes should be quite trivial.
+
 Example of how to access int stored in data, where data is the ```std::vector<uint8_t>```
 ```
 int* loc = (int*)(&data[0]);
