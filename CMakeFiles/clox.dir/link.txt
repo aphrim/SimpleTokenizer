@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/clox.dir/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp.o  -o clox 

@@ -1,3 +1,0 @@
-/home/lain/Code/tokenizer/CMakeFiles/rebuild_cache.dir
-/home/lain/Code/tokenizer/CMakeFiles/edit_cache.dir
-/home/lain/Code/tokenizer/CMakeFiles/tokenizer.exe.dir

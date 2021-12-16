@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/lang.exe.dir/src/debug.cpp.o CMakeFiles/lang.exe.dir/src/main.cpp.o CMakeFiles/lang.exe.dir/src/scanner.cpp.o  -o lang.exe 
