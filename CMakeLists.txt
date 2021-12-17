@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.0.0)
 
-project(clox)
+project(tokenizer)
 
 file(GLOB_RECURSE src
 	CONFIGURE_DEPENDS
