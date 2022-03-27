@@ -1,6 +1,6 @@
 ## TOKENIZER
 
-A simple, easy to understand, and easy to expand tokenizer.
+A simple, easy to understand, and easy to expand tokenizer / lexer.
 
 Easy to add new keywords, tokens and more.
 
@@ -56,7 +56,7 @@ TOKEN_EOF
 Requires cmake installed.
 ```cmake .```
 ```make```
-and then run ./tokenizer.exe.
+and then run ./tokenizer.
 
 ### Windows
 
