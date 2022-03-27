@@ -10,4 +10,4 @@ file(GLOB_RECURSE src
 
 message(${src})
 
-add_executable(tokenizer.exe ${src})
+add_executable(tokenizer ${src})
